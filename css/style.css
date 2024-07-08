@@ -22,9 +22,6 @@ form{
   margin-top: 4%;
   margin-left: -10%;
 }
-#arquivoImagem{
-  display: none;
-}
 .modal-footer{
   margin-top: -5%;
 }
@@ -155,10 +152,6 @@ html, body, .page {
     -o-transition: all .5s ease-out;
   }
 
-  a#contato{
-    color: #0080ff;
-  }
-
 /* Tamanho da fonte dos elementos */
   .title {
     font-size: 38px;
@@ -169,7 +162,6 @@ html, body, .page {
   .about {
     font-size: 18px;
   }
-
 
   .line-trough {
     text-decoration: line-through;
