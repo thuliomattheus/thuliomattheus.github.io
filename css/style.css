@@ -35,16 +35,6 @@ td.active{
 	background-color: white;
 }
 
-.menuTabelas, .menuImagens{
-  margin-left: 2%;
-  width: 13%;
-  height: 100%;
-  float: left;
-}
-.menuCentral{
-  margin-top: 25%;
-}
-
 html, body, .page {
     width: 100%;
     height: 100%;
